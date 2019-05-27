@@ -1,0 +1,96 @@
+body 
+ {
+	background-color: #a9d7d1;
+  font-size: 20px;
+ }
+.outer
+  {
+  	border: 1px solid black;
+  	background-color: white;
+    width: 70%;
+    margin: auto;
+    border-radius: 10px;
+  }
+ .button
+  {
+    height: 30px;
+    width: 150%;
+  } 
+.text
+ {
+ 	height: 30px;
+ 	width: 150%;
+
+ }
+h1
+ {
+ 	text-align: center;
+ }
+.label , .right
+ {
+	display: inline-block;
+} 
+.label
+  {
+  	width: 40%;
+  	text-align: right; 
+  }
+ .button
+  {
+  	display: block;
+  } 
+.right
+ {
+ 	margin-left: 20px;
+  line-height: 30px;
+ }
+.right .button
+ {
+ 	margin-left: -43px;
+ }   
+#recomd
+ {
+ 	position: relative;
+ 	margin-top: -30%;
+}
+.submit
+ {
+  position: relative;
+  left: 40%;
+  height: 45px;
+  width: 100px;
+  background-color: #3498db;
+  color: white;
+  font-size: 1em;
+  border-radius: 10px;
+  margin-top: 15px;
+ }
+select
+ {
+  height: 30px;
+  width: 120%;
+ }
+.row
+ {
+  margin-top: 15px;
+ }
+.content
+ {
+  padding: 30px 150px;
+ }
+p
+ {
+  text-align: center;
+  margin-top: -10px;
+ }  
+#future
+ {
+  display: inline;
+  position: relative;
+  top: -250px;
+ }
+#sug
+ {
+  position: relative;
+  top: -45px;
+ }  
